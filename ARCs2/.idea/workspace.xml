@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62e26535-3503-4951-9991-070d81b85d7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARC solver/Salver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARC solver/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ARC_Puzzles/task_solved.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/All_in_1/.idea/All_in_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/figureItOut/.idea/figureItOut.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/setup/.idea/setup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eric/PycharmProjects/tryingNew/.idea/tryingNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NItrox Calc's/.idea/NItrox Calc's.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NItrox Calc's/Dive planning/gui/.idea/gui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/Deep_R1/.idea/Deep_R1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/PythonProject/.idea/Visualizer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/music1/.idea/music1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/stock1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/stock1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/stock1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/stock1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/stock1/.idea/stock1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/stock1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/wave_player/.idea/wave_player.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/arcs2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.venv/shapes.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BzZxVW9VHCJE2teJXS5je8Uh3I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.arcs2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JSON"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f78a9d071105-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26574.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e26535-3503-4951-9991-070d81b85d7b" name="Changes" comment="" />
+      <created>1775494105822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775494105822</updated>
+    </task>
+    <servers />
+  </component>
+</project>
